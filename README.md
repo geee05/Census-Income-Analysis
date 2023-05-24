@@ -1,2 +1,2 @@
 # Census-Income-Analysis
-An exploratory data analysis on the data extracted from the 1994 Census bureau database by Ronny Kohavi and Barry Becker. 
+The following is a EDA on census data followed by a bivariate analysis. The goal of this project is to predict whether a person makes over 50K a year or not given their demographic variation.  
